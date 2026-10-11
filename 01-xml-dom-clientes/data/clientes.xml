@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clientes>
+    <cliente>
+        <nombre>Ana Perez Gomez</nombre>
+        <direccion>Calle Mayor 12, Madrid</direccion>
+        <telefono>612345678</telefono>
+        <email>ana.perez@example.com</email>
+    </cliente>
+    <cliente>
+        <nombre>Marta Sanchez Ruiz</nombre>
+        <direccion>Calle Gran Via 103, Valencia</direccion>
+        <telefono>699112233</telefono>
+        <email>marta.sanchez@example.com</email>
+    </cliente>
+    <cliente>
+        <nombre>Javier Martin Ortega</nombre>
+        <direccion>Plaza de Miraflores 14, Zaragoza</direccion>
+        <telefono>622334455</telefono>
+        <email>javier.martin@example.com</email>
+    </cliente>
+    <cliente>
+        <nombre>Lucia Romero Diaz</nombre>
+        <direccion>Calle del Sol 27, Malaga</direccion>
+        <telefono>+346455112233</telefono>
+        <email>lucia.romero@example.com</email>
+    </cliente>
+</clientes>
